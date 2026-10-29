@@ -1,0 +1,11 @@
+.obsidian/
+.trash/
+*.ovpn
+*.kdbx
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+.DS_Store
+Thumbs.db
+desktop.ini
