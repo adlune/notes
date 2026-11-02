@@ -1,5 +1,7 @@
 .obsidian/
 .trash/
+.copilot/
+copilot/
 *.ovpn
 *.kdbx
 *.pem
